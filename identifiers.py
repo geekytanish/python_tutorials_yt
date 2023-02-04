@@ -1,0 +1,10 @@
+Age=18       #valid
+name="tanish"  #valid
+name1="Tanish" #valid
+1name="Tanish" #invalid
+name_surname="Tanish Sharma" #valid
+name surname="Tanish Sharma" #invalid
+_name="Tanish"  #valid
+name_="Tanish"  #valid
+$name="Tanish"  #invalid
+age=19    #both "age" and "Age" are different
