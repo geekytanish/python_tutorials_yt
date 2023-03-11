@@ -6,4 +6,4 @@ if int(age)>=18 and int(check)==1:
 elif int(age)>=18 and int(check)==0:
     print("Get your Adhaar card first")
 else:
-    print("nikal")
+    print("Padhai likhai kro IAS bno or dekh ko sambhalo")
